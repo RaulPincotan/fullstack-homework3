@@ -1,0 +1,2 @@
+YELLOW- > -> GymMember{name='Raul', dateOfBirth=1991-07-08,age='29}|  -> remainaing time: 25
+YELLOW- > -> GymMember{name='Borris Johnson', dateOfBirth=1740-01-08,age='281}|  -> remainaing time: 17
